@@ -15,11 +15,4 @@ Topology: 3-Tier Infrastructure (access, distribution, core), partial-mesh
 - Additional clarity using interface descriptions
 - Port Security enabled on access ports
 
-- WIPs:
-    - ACLs
-    - External DHCP and DNS servers
-    - DHCP snooping
-    - DAI
-    - HSRP
-    - and more!
 
